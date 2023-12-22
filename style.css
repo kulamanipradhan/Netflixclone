@@ -270,14 +270,16 @@ footer .questions {
   }
 }
 
-
-.answer{
+.answer {
   display: none;
 }
 
 .answer.active {
   display: block;
- 
 }
 
-
+.signinbtn > a {
+  text-decoration: none;
+  color: white;
+  
+}
